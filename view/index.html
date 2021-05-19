@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Password Generator</title>
+</head>
+<body>
+
+    <div class="container">
+
+    <h1> Password Generator </h1>
+
+    <p class="senha-gerada"> Create your password </p>
+
+    <div class="form-password">
+        <label for="name">Character Limit</label>
+        <input type="text" name="" value=20 class="char-limit"><br>
+        <input type="checkbox" name="" class="chkbox-upper"> Add Uppercase Letters <br>
+        <input type="checkbox" name="" class="chkbox-lower"> Add Lowercase Letters <br>
+        <input type="checkbox" name="" class="chkbox-number"> Add Numbers <br>
+        <input type="checkbox" name="" class="chkbox-symbol"> Add Symbols <br>
+
+        <button type="button" class="btn-create-password">Create Password</button>
+        <button type="button" class="btn-save-password">Save Password</button>
+
+    </div>
+
+    <div class="password-list">
+        <p class="error-message"></p>
+        <ul class="saved-passwords">
+        </ul>
+    </div>
+
+    </div>
+
+
+
+
+    <script src="../dist/bundle.js"></script>
+</body>
+<footer>Created by @Lugaiotto</footer>
+</html>
