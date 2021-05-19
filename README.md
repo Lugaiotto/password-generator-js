@@ -3,7 +3,7 @@
 
   # :rocket: How it works: 
   
-  This password generator creates a password from 1 to 30 characters as your choose the options.
+  This password generator creates a password from 1 to 30 characters as you choose the options.
   You can choose between Uppercases, Lowercases, Numbers and Symbols.
   
   You can save your passwords in the "Save Password" button, for now there's no local storage session so don't 
