@@ -31,7 +31,7 @@
   # This password generator was created for studying purposes, in this project i've learned:
  
  
-  * How to use and handle webpacks - [x]
-  * Configure webpack.config.js - [x]
-  * Use babel to transpile my code - [x]
-  * Use modules to split the code and import/export what is necessary - [x]
+  * How to use and handle webpacks - :heavy_check_mark:
+  * Configure webpack.config.js - :heavy_check_mark:
+  * Use babel to transpile my code - :heavy_check_mark:
+  * Use modules to split the code and import/export what is necessary - :heavy_check_mark:
